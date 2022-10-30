@@ -23,9 +23,6 @@ import org.koin.core.context.startKoin
 import org.koin.dsl.module
 import timber.log.Timber
 
-/**
- * Created by Athenriel on 25/03/2020.
- */
 class MyApplication : Application() {
 
     companion object {
